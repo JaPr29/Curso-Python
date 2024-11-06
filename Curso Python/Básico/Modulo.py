@@ -1,12 +1,12 @@
-import Clases as C 
+from Clases import Clases
 
-persona = C.Persona("Jano", "Juarez", 18)
+persona = Clases.Persona("Jano", "Juarez", 18)
 
 persona.estudiar("Python")
 
 persona.país = "Argentina"
 
-C.print_persona_info(persona)
+Clases.print_persona_info(persona)
 # Excepciones
 try :
     print(persona.arriba)
