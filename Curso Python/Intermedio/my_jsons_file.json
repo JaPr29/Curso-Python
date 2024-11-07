@@ -1,0 +1,48 @@
+{
+    "people": [
+        {
+            "name": "Jano",
+            "surname": "Juarez",
+            "age": 18
+        },
+        {
+            "name": "Rodrigo",
+            "surname": "Sanchez",
+            "age": 44
+        },
+        {
+            "name": "Gustavo",
+            "surname": "Fring",
+            "age": 29
+        }
+    ],
+    "Cars": [
+        {
+            "car": "Ford",
+            "model": "Mustang",
+            "year": 1964
+        },
+        {
+            "car": "Tesla",
+            "model": "Model S",
+            "year": 2020
+        },
+        {
+            "car": "Nissan",
+            "model": "Leaf",
+            "year": 2019
+        }
+    ],
+    "Buildings": [
+        {
+            "building": "The Great Wall",
+            "country": "China",
+            "year": 1922
+        },
+        {
+            "building": "Empire State",
+            "country": "USA",
+            "year": 1930
+        }
+    ]
+}
